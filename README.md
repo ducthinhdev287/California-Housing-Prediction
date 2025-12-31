@@ -6,7 +6,8 @@ Học phần: Học máy cơ bản
 Học kỳ/Năm học: HK5 2025-2026
 Sinh viên thực hiện: Đỗ Đức Thịnh - 10123307
 
-1. GIỚI THIỆU (INTRODUCTION)
+1. GIỚI THIỆU (INTRODUCTION
+
 1.1. Bối cảnh bài toán
 
 Thị trường bất động sản tại bang California có mức độ phức tạp cao, với giá nhà chịu ảnh hưởng mạnh từ vị trí địa lý, thu nhập dân cư và các yếu tố nhân khẩu học. Do đó, việc xây dựng một mô hình hồi quy có khả năng dự đoán giá trị trung vị nhà ở (median_house_value) tại từng khu vực là một bài toán điển hình và có ý nghĩa thực tiễn trong lĩnh vực Khoa học Dữ liệu.
