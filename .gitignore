@@ -1,0 +1,19 @@
+# 1. Bỏ qua các file rác của Python (Compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2. Bỏ qua file rác của Colab/Jupyter Notebook
+.ipynb_checkpoints/
+
+# 3. Bỏ qua thư mục môi trường ảo (Virtual Environment)
+venv/
+env/
+.env
+
+# 4. Bỏ qua các file cấu hình của IDE (VS Code, PyCharm...)
+.vscode/
+.idea/
+
+# 5. Bỏ qua các file log hệ thống
+*.log
