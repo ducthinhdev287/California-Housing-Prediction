@@ -106,7 +106,7 @@ Yêu cầu
 Python ≥ 3.8
 
 Cài đặt
-git clone https://github.com/[Your_Username]/California-Housing-Prediction.git
+git clone https://github.com/California-Housing-Prediction.git
 cd California-Housing-Prediction
 pip install -r requirements.txt
 
